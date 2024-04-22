@@ -14,4 +14,4 @@ Ao inserir todos os jogadores , clique com o Botão Direito do mouse em um Nó e
 
 Com todos em campo , o botão Random Walk faz 100 transições entre os nós levando em conta a probabilidade de cada um e mostra na tela por quem a bola mais passou.
 
-// O outro botão ainda não está funcional
+Após inserir alguns jogadores, ao clicar no Crucial Player, o algoritmo irá retornar os jogadores, que se forem anulados, comprometem muito seu time.
